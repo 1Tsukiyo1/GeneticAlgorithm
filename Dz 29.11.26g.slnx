@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/Элементы решения/">
+    <File Path=".gitignore" />
+  </Folder>
+  <Project Path="GaOperators.Demo/GaOperators.Demo.csproj" />
+  <Project Path="GaOperators.Tests/GaOperators.Tests.csproj" />
+  <Project Path="GaOperators/GaOperators.csproj" />
+</Solution>
